@@ -2,7 +2,7 @@
 	"name": "friendly-chainsaw",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "svelte-kit dev",
+		"dev": "svelte-kit dev --port 3050",
 		"build": "rm -rf build && svelte-kit build",
 		"package": "svelte-kit package",
 		"preview": "svelte-kit preview",
