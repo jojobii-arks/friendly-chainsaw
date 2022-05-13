@@ -1,0 +1,1 @@
+import{S as e,i as n,s as o,w as a}from"../chunks/index-19ec49da.js";function l(t){let s;return a(()=>{console.dir(s)}),[]}class u extends e{constructor(s){super(),n(this,s,l,null,o,{})}}export{u as default};
