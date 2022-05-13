@@ -3,10 +3,9 @@ import adapter from '@sveltejs/adapter-static';
 
 // ? Make sure to edit this!
 
-const yourRepoName = 'svelte-tailwind-ghpages-template';
+const yourRepoName = 'friendly-chainsaw';
 const dev = process.env.NODE_ENV === 'development';
 
-/** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
 		adapter: adapter({
